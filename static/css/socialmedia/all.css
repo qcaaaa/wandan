@@ -2504,7 +2504,7 @@ svg {
 @font-face {
   font-family: Montserrat-Bold;
   src: url(../font/Montserrat-Bold.eot);
-  src: url(../font/Montserrat-Bold.eot) format("embedded-opentype"), url(../font/Montserrat-Bold.woff2) format("woff2"), url(../font/Montserrat-Bold.woff) format("woff"), url(../font/Montserrat-Bold.ttf) format("truetype"), url(https://shuyun.com/wp-content/themes/shuyun/statics/dist/fonts/Montserrat-Bold.svg) format("svg")
+  src: url(../font/Montserrat-Bold.eot) format("embedded-opentype"), url(../../font/Montserrat-Bold.woff2) format("woff2"), url(../font/Montserrat-Bold.woff) format("woff"), url(../font/Montserrat-Bold.ttf) format("truetype"), url(https://shuyun.com/wp-content/themes/shuyun/statics/dist/fonts/Montserrat-Bold.svg) format("svg")
 }
 @font-face {
   font-family: TwCenMT-Regular;
