@@ -4078,7 +4078,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   top: 0;
   width: 100%;
   z-index: 1;
-  background: url("../image/banner.png") bottom center no-repeat;
+  background: url("../../image/index/banner.png") bottom center no-repeat;
 }
 .index_banner_bgsvg img {
   display: block;
@@ -4404,7 +4404,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   }
 }
 .index_solution_hd > ul > li .item:before {
-  background-image: url(../image/index_solution_hd_base.png);
+  background-image: url(../../image/index/index_solution_hd_base.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
