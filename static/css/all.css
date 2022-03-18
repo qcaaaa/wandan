@@ -2504,7 +2504,7 @@ svg {
 @font-face {
   font-family: Montserrat-Bold;
   src: url(../font/Montserrat-Bold.eot);
-  src: url(../font/Montserrat-Bold.eot) format("embedded-opentype"), url(../../font/Montserrat-Bold.woff2) format("woff2"), url(../font/Montserrat-Bold.woff) format("woff"), url(../font/Montserrat-Bold.ttf) format("truetype"), url(https://shuyun.com/wp-content/themes/shuyun/statics/dist/fonts/Montserrat-Bold.svg) format("svg")
+  src: url(../font/Montserrat-Bold.eot) format("embedded-opentype"), url(../font/Montserrat-Bold.woff2) format("woff2"), url(../font/Montserrat-Bold.woff) format("woff"), url(../font/Montserrat-Bold.ttf) format("truetype"), url(https://shuyun.com/wp-content/themes/shuyun/statics/dist/fonts/Montserrat-Bold.svg) format("svg")
 }
 @font-face {
   font-family: TwCenMT-Regular;
@@ -4078,7 +4078,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   top: 0;
   width: 100%;
   z-index: 1;
-  background: url("../image/banner.png") bottom center no-repeat;
+  background: url("../image/index/banner.png") bottom center no-repeat;
 }
 .index_banner_bgsvg img {
   display: block;
@@ -4404,7 +4404,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   }
 }
 .index_solution_hd > ul > li .item:before {
-  background-image: url(../image/index_solution_hd_base.png);
+  background-image: url(../image/index/index_solution_hd_base.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4535,7 +4535,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   }
 }
 .index_solution_bd .txt:before {
-  background-image: url(../image/quote.png);
+  background-image: url(../image/index/quote.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5126,7 +5126,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   opacity: 0
 }
 .index_bottom_block {
-  background: url(../image/index_bottom_block.png) center 1.6rem no-repeat #000;
+  background: url(../image/index/index_bottom_block.png) center 1.6rem no-repeat #000;
   padding-bottom: 1.2rem
 }
 @media (max-width:968px) {
@@ -5139,7 +5139,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
     z-index: 5
   }
   .index_bottom_block:after {
-    background-image: url(../image/index_bottom_block.png);
+    background-image: url(../image/index/index_bottom_block.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5330,7 +5330,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
   }
 }
 .index_industry_slide .swiper-slide .item_inner .list > ul > li:before {
-  background-image: url(../image/icon_hook.png);
+  background-image: url(../image/index/icon_hook.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5673,7 +5673,7 @@ a:hover .btn01_linear em, a:hover .btn01_linear svg {
     padding-bottom: 0
   }
 }
-.intro_about:after {
+.intro_about:after { 
   background-image: url(../image/intro_about_bg.png);
   background-position: 50%;
   background-repeat: no-repeat;
@@ -15798,7 +15798,7 @@ table td[class*=col-], table th[class*=col-] {
 	.index_promote_mode .promote_list .promote_item:nth-child(3) .step:before{content: none;}
 	.index_promote_mode .promote_list .promote_item:nth-child(3) .step:after{width:6px; height:6px; top: -3px; right:50%; margin-right: -3px;}
 
-	.index_promote_mode .promote_list .promote_item:nth-child(4) .step:before{width: 6px; height: 6px; background:url('../images/index_promote_point.png') no-repeat center center; background-size: cover; position: absolute; top: -3px; left:50%; margin-left: -3px; z-index: 2; border-top:0px; transform:unset;}
+	.index_promote_mode .promote_list .promote_item:nth-child(4) .step:before{width: 6px; height: 6px; background:url('../images/advertising/index_promote_point.png') no-repeat center center; background-size: cover; position: absolute; top: -3px; left:50%; margin-left: -3px; z-index: 2; border-top:0px; transform:unset;}
 	.index_promote_mode .promote_list .promote_item:nth-child(4) .step:after{width:6px; height:6px; bottom: -3px; top: unset; left:50%; margin-left: -3px;}
 
 	.index_promote_mode .promote_list .promote_item:nth-child(5) .step:before{content: none;}
@@ -15958,16 +15958,16 @@ line-height: 180%;}
 .index_marketing_scenario_col .cy ul li {float:left;text-align: center; margin-bottom: 20px;margin-right: 10px;  list-style: none}
 .index_marketing_scenario_col .cy ul li:last-child{float:right; margin-right:0;}
 .index_marketing_scenario_col .cy ul li p{font-size: 15px; color:#a9a8aa ;font-weight: 600;display: table; line-height: 73px; text-indent: 60px; margin-top: 20px;width: 220px; height: 73px;}
-.index_marketing_scenario_col .cy ul li .p1{background:url("../image/socail/cy1.png"); }
-.index_marketing_scenario_col .cy ul li .p2{background:url(../image/socail/cy2.png) ;}
-.index_marketing_scenario_col .cy ul li .p3{background:url(../image/socail/cy3.png) ;}
-.index_marketing_scenario_col .cy ul li .p4{background:url(../image/socail/cy4.png) ;}
-.index_marketing_scenario_col .cy ul li .p5{background:url(../image/socail/cy5.png) ;}
-.index_marketing_scenario_col .cy ul li .p6{background:url(../image/socail/cy6.png) ;}
-.index_marketing_scenario_col .cy ul li .p7{background:url(../image/socail/cy7.png) ;}
-.index_marketing_scenario_col .cy ul li .p8{background:url(../image/socail/cy8.png) ;}
-.index_marketing_scenario_col .cy ul li .p9{background:url(../image/socail/cy9.png) ;}
-.index_marketing_scenario_col .cy ul li .p10{background:url(../image/socail/cy10.png);margin-bottom: 30px;}
+.index_marketing_scenario_col .cy ul li .p1{background:url("../image/socialmedia/cy1.png"); }
+.index_marketing_scenario_col .cy ul li .p2{background:url(../image/socialmedia/cy2.png) ;}
+.index_marketing_scenario_col .cy ul li .p3{background:url(../image/socialmedia/cy3.png) ;}
+.index_marketing_scenario_col .cy ul li .p4{background:url(../image/socialmedia/cy4.png) ;}
+.index_marketing_scenario_col .cy ul li .p5{background:url(../image/socialmedia/cy5.png) ;}
+.index_marketing_scenario_col .cy ul li .p6{background:url(../image/socialmedia/cy6.png) ;}
+.index_marketing_scenario_col .cy ul li .p7{background:url(../image/socialmedia/cy7.png) ;}
+.index_marketing_scenario_col .cy ul li .p8{background:url(../image/socialmedia/cy8.png) ;}
+.index_marketing_scenario_col .cy ul li .p9{background:url(../image/socialmedia/cy9.png) ;}
+.index_marketing_scenario_col .cy ul li .p10{background:url(../image/socialmedia/cy10.png);margin-bottom: 30px;}
 @media (max-width: 668px){
 	.index_marketing_scenario_col .cy ul li p{font-size: 15px; color:#a9a8aa ;font-weight: 600;display: table; line-height: 73px; text-indent: 60px; margin-top: 20px;width: 100%; height: 73px; background-size:contain;}
 	.index_marketing_scenario_col .cy ul li ,.index_marketing_scenario_col .cy ul{list-style: none; padding: 0; margin: 1%}
